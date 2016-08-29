@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Wicam</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hotspot_signin">Sign in Wicam Hotspot</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="write_external_storage_permission_required">Write External Storage permissions are required in order to save video and image</string>
+    <string name="error_pwd_length_less_8">Password must be 8 or more characters.</string>
+    <string name="ap_ssid">ap_ssid</string>
+    <string name="ip">ip</string>
+    <string name="ap_pin">ap_pin</string>
+    <string name="wid">wid</string>
+    <string name="sta_ssid">sta_ssid</string>
+    <string name="sta_pin">sta_pin</string>
+    <string name="sta_sec">sta_sec</string>
+    <string name="Messenger">Messenger</string>
+    <string name="what">what</string>
+    <string name="params">params</string>
+
+    <string name="title_activity_video_play">VideoPlayActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="loading_video">Loading\nVideo</string>
+    <string name="mp4_path">mp4_path</string>
+    <string name="h264_quality">h264_quality</string>
+    <string name="resolution">resolution</string>
+    <string name="jpeg_path">jpeg_path</string>
+    <string name="old_ssid">old_ssid</string>
+    <string name="frame">frame</string>
+    <string name="fw_version">fw_version</string>
+    <string name="firmware">firmware</string>
+    <string name="firmware_version">firmware_version</string>
+    <string name="dev_info">dev_info</string>
+    <string name="ssid_must_begin_with_wicam">WiCam name must begin with \'WiCam-\' case sensitive.</string>
+    <string name="field_length_must_6_or_more">This field must be 6 or more characters.</string>
+    <string name="edit_wicam_settings">Edit Wicam Settings</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="mode">mode</string>
+    <string name="outdoor">outdoor</string>
+    <string name="home">home</string>
+    <string name="cloud">cloud</string>
+    <string name="update_firmware">Update Firmware</string>
+    <string name="lan_address">lan_address</string>
+    <string name="wan_address">wan_address</string>
+    <string name="wan_port">wan_port</string>
+</resources>
